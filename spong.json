@@ -14,7 +14,30 @@
 		"startappid": ""
 	}],
 	"More": [
-   
+   {
+      "id":1,
+      "judul":"ADS Mod Freddy",
+      "image":"https://play-lh.googleusercontent.com/AN1DdSq2GFltoKtjn-f7xTVGm_g3-potHnlZrOt2f56_Gx1AmKCmtWux15IAJuu5xPI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.jangkhup.modanimatronic.fredyfivepack"
+    },
+    {
+      "id":2,
+      "judul":"ADS Mod BEN",
+      "image":"https://play-lh.googleusercontent.com/xeIXczq9DU5wo9RFWdlOBeQKuTKQDo9byAL4sIAzuWdBghT0NRqr8iH2rJMhxollhAzt=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.modbenten.aliensskins.fullmultiverse"
+    },
+    {
+      "id":3,
+      "judul":"ADS Mod Free Fire",
+      "image":"https://play-lh.googleusercontent.com/on7pTC_wKFYzTQL4r1BemD7EhxFTemipev8t8r3WxdGMuIggiriOjUc_DFQm5KPaKx4=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.bondperl.freeffmod.fireskinpack"
+    },
+    {
+      "id":4,
+      "judul":"ADS Mod Adventure Time",
+      "image":"https://play-lh.googleusercontent.com/JM_JJ3p8g606kexb7VmEYIdEGT-hsk_cCHWUg3cFTpuKGe3DGkb1vEtLZklMRcZ977A=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.nkarsx.adventuremodtime.skinsfinnaddon"
+    }
 
   ],
 	"Skin": [{
